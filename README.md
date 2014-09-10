@@ -7,3 +7,4 @@ You can use this library to implement residemenu in android apps.
 This library is based on https://github.com/jfeinstein10/SlidingMenu.
 I did some modifications, and I hope this modified library shoule help you.
 
+![image](http://img.blog.csdn.net/20140902225149282?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvbWFub2Vs/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
